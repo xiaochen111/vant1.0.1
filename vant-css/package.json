@@ -1,0 +1,49 @@
+{
+  "_from": "vant-css@http://registry.npm.taobao.org/vant-css/download/vant-css-1.3.10.tgz",
+  "_id": "vant-css@1.3.10",
+  "_inBundle": false,
+  "_integrity": "sha512-6BBCsmWkcU+UoCQ0yIbMqfbuS68cAAet1HrPO+T6VNOf/4n9PPzt+as68dimzDN2mOK7BD3L7wcOg26T8bB9tg==",
+  "_location": "/vant-css",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "vant-css@http://registry.npm.taobao.org/vant-css/download/vant-css-1.3.10.tgz",
+    "name": "vant-css",
+    "escapedName": "vant-css",
+    "rawSpec": "http://registry.npm.taobao.org/vant-css/download/vant-css-1.3.10.tgz",
+    "saveSpec": "http://registry.npm.taobao.org/vant-css/download/vant-css-1.3.10.tgz",
+    "fetchSpec": "http://registry.npm.taobao.org/vant-css/download/vant-css-1.3.10.tgz"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/vant-css/download/vant-css-1.3.10.tgz",
+  "_shasum": "fa2f372acb268d518b360f4b05a9fbd567632be0",
+  "_spec": "vant-css@http://registry.npm.taobao.org/vant-css/download/vant-css-1.3.10.tgz",
+  "_where": "E:\\project\\eshipping-mobile",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "vant css",
+  "devDependencies": {
+    "autoprefixer": "^9.1.3",
+    "fs-extra": "^7.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-postcss": "^8.0.0",
+    "postcss-calc": "^6.0.1",
+    "postcss-theme-variables": "^1.0.0",
+    "precss": "^3.1.2"
+  },
+  "files": [
+    "lib",
+    "src"
+  ],
+  "license": "MIT",
+  "main": "lib/index.css",
+  "name": "vant-css",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "style": "lib/index.css",
+  "version": "1.3.10"
+}
